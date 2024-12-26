@@ -1,0 +1,93 @@
+Select columns name and age
+Filter rows where age > 25
+Filter rows where department is 'IT'
+Filter rows where salary > 60000
+Select columns name, salary, salary
+Filter rows where age < 30 and department == 'HR'
+Select columns department, salary and filter the rows where salary > 70000
+Filter rows where name == 'John'
+Select columns name, department, age and filter rows where age >= 35
+Filter rows where department != 'Sales'
+Select columns name
+Filter rows where name starts with 'J'
+Select columns salary and age
+Filter rows where department ends with 'ing'
+Select columns name, age, salary and filter rows where salary > 60000
+Filter rows where salary < 70000
+Select columns name and filter rows where age > 18
+Filter rows where department is 'Marketing'
+Select columns name, age and filter rows where salary >= 80000
+Filter rows where age is less than 40
+Select columns name, department
+Filter rows where salary is greater than 50000
+Select columns age and department and filter rows where age < 25
+Filter rows where name contains 'Alice'
+Select columns name, salary and filter rows where salary <= 70000
+Filter rows where name ends with 'e'
+Select columns department and filter rows where department contains 'IT'
+Filter rows where salary == 80000
+Select columns salary and filter rows where department == 'Sales'
+Filter rows where name != 'Jane'
+Select columns name and filter rows where department != 'HR'
+Filter rows where age > 35
+Select all columns
+Filter rows where salary is greater than 50000 and age < 35
+Select columns name and salary
+Filter rows where department contains 'HR'
+Filter rows where name starts with 'A'
+Select columns age and filter rows where department == 'IT'
+Filter rows where salary <= 60000 and department == 'Marketing'
+Select columns department, salary and filter rows where salary > 70000
+Filter rows where department == 'Sales' and age > 30
+Select columns name, age and filter rows where salary < 60000
+Filter rows where department is not 'Marketing'
+Select columns salary
+Filter rows where name contains 'Bob'
+Select columns department, name and filter rows where department starts with 'H'
+Filter rows where salary is greater than 60000
+Select columns age and filter rows where age is less than 35
+Filter rows where name starts with 'J' and age > 20
+Select columns name, department and filter rows where salary >= 60000
+Filter rows where department ends with 'IT'
+Select columns name and filter rows where department == 'HR'
+Filter rows where salary is less than 80000
+Select columns department and filter rows where name contains 'Jane'
+Filter rows where department != 'Sales' and age > 30
+Select all columns and filter rows where age is greater than 30
+Filter rows where salary is between 50000 and 70000
+Select columns name and filter rows where salary is not equal to 80000
+Filter rows where department == 'Marketing' and age < 40
+Select columns age, salary and filter rows where name starts with 'A'
+Filter rows where salary is less than 50000 or age > 40
+Select columns name, department and filter rows where salary > 60000
+Filter rows where department is not 'IT'
+Select all columns and filter rows where salary >= 70000
+Filter rows where age == 40 and department == 'Marketing'
+Select columns name, department and filter rows where name != 'Bob'
+Filter rows where age > 18
+Select columns salary and filter rows where department starts with 'M'
+Filter rows where salary <= 70000
+Select columns department and filter rows where name == 'Alice'
+Filter rows where department contains 'IT' and salary > 60000
+Select columns name and filter rows where department == 'Sales'
+Filter rows where age is not less than 30
+Select columns salary and department
+Filter rows where salary is between 60000 and 80000
+Select columns age and filter rows where name ends with 'n'
+Filter rows where department starts with 'H'
+Select columns department and filter rows where salary == 50000
+Filter rows where age >= 35
+Select columns name, salary and filter rows where department == 'IT'
+Filter rows where department == 'HR' or department == 'Marketing'
+Select columns name and filter rows where name ends with 'e'
+Filter rows where salary != 60000
+Select all columns and filter rows where name == 'John'
+Filter rows where department contains 'Sales' and age <= 35
+Select columns name and filter rows where salary is greater than 50000
+Filter rows where name starts with 'A' and department != 'HR'
+Select columns department and filter rows where name == 'Bob'
+Filter rows where salary is greater than 60000 and department starts with 'M'
+Select columns name and age and filter rows where department != 'IT'
+Filter rows where salary is less than 70000 or name contains 'Alice'
+Select columns name, salary and filter rows where salary > 70000
+Filter rows where department == 'Marketing' or age > 30
